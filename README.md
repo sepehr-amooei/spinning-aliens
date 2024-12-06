@@ -21,7 +21,7 @@ Table of Contents
 
 1.  **Clone the Repository**:
 
-  git clone https://github.com/username/2DSpinningGame.git
+  git clone https://github.com/spehr-amooei/spinning-aliens.git
   cd 2DSpinningGame
 
 2. **Install OpenGL**:
